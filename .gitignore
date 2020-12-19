@@ -2,3 +2,4 @@
 __pycache__
 /dist
 game.spec
+player.spec
